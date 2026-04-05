@@ -1,0 +1,5 @@
+{
+  "name": "Sparkle Multispeciality Dental Clinic",
+  "description": "Premium multispeciality dental clinic in Quthbullapur, Hyderabad, offering expert care in root canals, implants, ortho, and pediatric dentistry.",
+  "requestFramePermissions": ["geolocation"]
+}
